@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/3kHD/sentinel-soc/issues"
   },
-  "homepage": "https://github.com/3kHD/sentinel-soc#readme"
+  "homepage": "https://github.com/3kHD/sentinel-soc#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
