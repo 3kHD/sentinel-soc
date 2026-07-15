@@ -1,0 +1,21 @@
+{
+  "name": "sentinel-soc",
+  "version": "1.0.0",
+  "description": "AI-powered SOC Dashboard for Network Anomaly Detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3kHD/sentinel-soc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/3kHD/sentinel-soc/issues"
+  },
+  "homepage": "https://github.com/3kHD/sentinel-soc#readme"
+}
